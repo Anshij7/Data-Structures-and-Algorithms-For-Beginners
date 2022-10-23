@@ -25,3 +25,5 @@ NODE *FrontInsertion(int data, NODE *head){
 }
 ```
 
+![6](https://user-images.githubusercontent.com/97989643/197414247-011e8a74-b3bc-42d3-9ab0-153ccfe85be2.png)
+
