@@ -27,3 +27,26 @@ NODE *FrontInsertion(int data, NODE *head){
 
 ![6](https://user-images.githubusercontent.com/97989643/197414247-011e8a74-b3bc-42d3-9ab0-153ccfe85be2.png)
 
+![7](https://user-images.githubusercontent.com/97989643/197421812-d54db418-93d5-4783-8650-f7cdca2480fb.png)
+
+
+![8](https://user-images.githubusercontent.com/97989643/197421816-747099c6-5f36-45b3-a953-b4f4601f18d2.gif)
+
+### pseudocode
+
+```java
+NODE *InsertatIndex(int data, NODE *head, int index){
+	NODE *newnode = createNode(data);
+	NODE *temp = head;
+	int count=0;
+	while(count != index-1){
+		temp = temp->next;
+		count++;
+	}
+	//temp reaches the index before the target index
+	newnode->next = temp->next;
+	temp->next = newnode;
+	
+	return head;
+}
+```
