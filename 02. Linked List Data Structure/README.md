@@ -50,3 +50,5 @@ NODE *InsertatIndex(int data, NODE *head, int index){
 	return head;
 }
 ```
+![9](https://user-images.githubusercontent.com/97989643/197425890-b62aefcd-6c59-4e77-beaa-7d52ab6526bd.png)
+
