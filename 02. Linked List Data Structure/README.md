@@ -52,3 +52,11 @@ NODE *InsertatIndex(int data, NODE *head, int index){
 ```
 ![9](https://user-images.githubusercontent.com/97989643/197425890-b62aefcd-6c59-4e77-beaa-7d52ab6526bd.png)
 
+![10](https://user-images.githubusercontent.com/97989643/197429850-34f79fcd-c129-4a78-acb5-67233c8b600a.png)
+
+![11](https://user-images.githubusercontent.com/97989643/197429865-425cb0c6-8643-4181-bdc5-239417d33396.gif)
+
+
+
+
+
