@@ -58,6 +58,7 @@ NODE *InsertatIndex(int data, NODE *head, int index){
 ![12](https://user-images.githubusercontent.com/97989643/197440415-465778dd-fb58-4a5e-9031-4269865d2df8.png)
 ![link14](https://user-images.githubusercontent.com/97989643/199774346-29770165-6ea1-4e17-88d8-dcdb201a9eff.gif)
 
+![Untitled-2022-11-04-0050 excalidraw](https://user-images.githubusercontent.com/97989643/199815027-ea2215c8-4e10-41e5-bb6e-907651f3927c.png)
 
 
 
