@@ -7,7 +7,7 @@
 
 <div align="center" >
 
-<h2> 👉 <a href="https://code-xam.vercel.app/dsa/erb">CodeXam</a> </h2>
+<h2> 👉 <a href="https://code-xam.vercel.app/docs/DSA">CodeXam</a> </h2>
 </div>
 
 Every developer likes black theme, so we have a black theme for you so turn on your dark mode and enjoy the dark theme 😉.
